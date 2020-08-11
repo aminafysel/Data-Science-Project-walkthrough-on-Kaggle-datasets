@@ -1,8 +1,9 @@
 # Data Science Project Walkthrough on Kaggle datasets
-Trying different types of machine learning algorithms through well known datasets
+Trying different types of machine learning algorithms through well known datasets.
 The main aim of this project is to focus on creating machine learning pipelines considering all the life cycle of a Data Science Project.WE will go from data analysis,visualization,feature engineering,feature selection, model selection and deployment.
 
 The datasets were downloaded from the kaggle website https://www.kaggle.com/datasets.
+
 1.https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009
   Context: The two datasets are related to red and white variants of the Portuguese "Vinho Verde" wine. For more details, consult the reference [Cortez et al., 2009]. Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).Here I am trying to predict the quality of wine considering the best features using machine learning models.
   
